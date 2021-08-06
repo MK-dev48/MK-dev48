@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MK-dev48
 - 👀 I’m interested in Game dev
-- 🌱 I’m currently learning C++ and C#
+- 🌱 I’m currently learning C++ and C# and Python 3
 - 💞️ I’m looking to collaborate on making 2D action game
-- 📫 How to reach me ()
+- 📫 How to reach me (None)
 
 <!---
 MK-dev48/MK-dev48 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

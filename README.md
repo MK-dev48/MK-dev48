@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MK-dev48
 - 👀 I’m interested in Game dev
-- 🌱 I’m currently learning C++ and C# and Python 3
-- 💞️ I’m looking to Nothing
+- 🌱 I’m currently learning Python 3
 - 📫 How to reach me (None)
 
 <!---

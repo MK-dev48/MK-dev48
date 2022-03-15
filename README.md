@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MK-dev48
 - 👀 I’m interested in Game dev
 - 🌱 I’m currently learning Python 3 and Pytorch
-- 📫 How to reach me (None)
+- 📫 How to reach me (You can now chat with me on Discussions.)
 
 <!---
 MK-dev48/MK-dev48 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

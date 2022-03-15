@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MK-dev48
-- 👀 I’m interested in Game dev
+- 👀 I’m interested in Game dev (... or something fun)
 - 🌱 I’m currently learning Python 3 and Pytorch
 - 📫 How to reach me (You can now chat with me on Discussions.)
 

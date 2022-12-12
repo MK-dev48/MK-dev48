@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game dev (... or something fun)
 - 🌱 I’m currently learning Python 3 and Pytorch
 - 📫 How to reach me (You can now chat with me on MK-dev48/Discussions.)
-- 🖊 This (mk-dev48.github.io) is my web pages.
+- 🖊 This (https://mk-dev48.github.io) is my web pages.
 
 <!---
 MK-dev48/MK-dev48 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
